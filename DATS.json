@@ -1,0 +1,59 @@
+{
+    "title": "Quantifying Neural-Cognitive Relationships Across the Brain",
+    "creators": [
+        {
+            "name": "Jason Steffener"
+        }
+    ],
+    "description": "",
+    "version": "2020-08-20T19:20:16.140081",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 0.0,
+            "unit": {
+                "value": "Bytes"
+            },
+            "access": {
+                "landingPage": "https://osf.io/xhvsk/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "0"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
