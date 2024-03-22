@@ -71,7 +71,8 @@
     },
     "types": [
         {
-            "value": "imaging"
+            "value": "imaging",
+			"valueIRI": "http://uri.interlex.org/ilx_0105225"
         }
     ]
 }
